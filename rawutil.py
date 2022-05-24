@@ -1,6 +1,7 @@
 import plotly.graph_objs as go
 import yfinance as yf
 import matplotlib.pyplot as plt
+import pandas as pd
 
 def fetch_stock_data(ticker,period):
     data = yf.download(tickers = ticker, 
