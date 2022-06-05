@@ -1,5 +1,5 @@
 # LSTMforStocks
 ## Train & Predict Visualization
 
-https://user-images.githubusercontent.com/44315208/161419821-76d2a210-b4da-49c5-8243-f03bd9249ed0.mp4
+https://user-images.githubusercontent.com/44315208/172070069-220210f0-2f51-4dc2-9153-61457358768e.mp4
 
